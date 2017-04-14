@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-April 12, 2017
+April 14, 2017
 
 ### Student Name:  
 Homer Davis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses an API, Ajax, and JSON to create a movie information application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://had14b.github.io/lesson8_ajax/Lesson8_AssignmentFiles/index.html
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
