@@ -16,6 +16,6 @@ This assignment uses an API, Ajax, and JSON to create a movie information applic
 https://had14b.github.io/lesson8_ajax/Lesson8_AssignmentFiles/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Ajax allows client web pages to quickly interact and exchange data with a web server.
+2. HTTP messages are HTTP client requests and server responses.
+3. JSON stands for JavaScript Object Notation.
